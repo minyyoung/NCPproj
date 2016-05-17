@@ -105,7 +105,7 @@
             this.Controls.Add(this.cbKind1);
             this.Controls.Add(this.dateLabel);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "AAA";
             this.ResumeLayout(false);
             this.PerformLayout();
 
