@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\bin\Debug\ChangeForm.exe.config
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\bin\Debug\ChangeForm.exe
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\bin\Debug\ChangeForm.pdb
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\obj\Debug\ChangeForm.Form1.resources
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\obj\Debug\ChangeForm.Form2.resources
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\obj\Debug\ChangeForm.Properties.Resources.resources
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\obj\Debug\ChangeForm.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\obj\Debug\ChangeForm.exe
+C:\Users\Student\Desktop\NCPproj\ChangeForm\ChangeForm\obj\Debug\ChangeForm.pdb
