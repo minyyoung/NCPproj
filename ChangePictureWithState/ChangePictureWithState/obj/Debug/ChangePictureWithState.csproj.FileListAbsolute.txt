@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\bin\Debug\ChangePictureWithState.exe.config
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\bin\Debug\ChangePictureWithState.exe
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\bin\Debug\ChangePictureWithState.pdb
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\obj\Debug\ChangePictureWithState.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\obj\Debug\ChangePictureWithState.Form1.resources
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\obj\Debug\ChangePictureWithState.Properties.Resources.resources
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\obj\Debug\ChangePictureWithState.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\obj\Debug\ChangePictureWithState.exe
+C:\Users\Student\Desktop\NCPproj\ChangePictureWithState\ChangePictureWithState\obj\Debug\ChangePictureWithState.pdb
