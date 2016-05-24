@@ -1,9 +1,0 @@
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\bin\Debug\Layout.exe.config
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\bin\Debug\Layout.exe
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\bin\Debug\Layout.pdb
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\obj\Debug\Layout.Form1.resources
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\obj\Debug\Layout.Properties.Resources.resources
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\obj\Debug\Layout.csproj.GenerateResource.Cache
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\obj\Debug\Layout.exe
-C:\Users\Mirim\Desktop\NCPproj\Layout\Layout\obj\Debug\Layout.pdb
