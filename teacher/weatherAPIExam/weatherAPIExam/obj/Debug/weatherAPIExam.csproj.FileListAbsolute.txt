@@ -25,3 +25,12 @@ C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\De
 C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Form1.resources
 C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Properties.Resources.resources
 C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csproj.GenerateResource.Cache
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe.config
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.exe
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.pdb
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.pdb
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Form1.resources
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Properties.Resources.resources
+C:\Users\Mirim\Desktop\NCPproj\teacher\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csproj.GenerateResource.Cache
