@@ -1,0 +1,27 @@
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe.config
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.pdb
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csprojResolveAssemblyReference.cache
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Form1.resources
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Properties.Resources.resources
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csproj.GenerateResource.Cache
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.exe
+C:\Aurum\3506\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.pdb
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe.config
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.exe
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.pdb
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.pdb
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Form1.resources
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Properties.Resources.resources
+C:\Users\Mirim\Downloads\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csproj.GenerateResource.Cache
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe.config
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.exe
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.pdb
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.exe
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\bin\Debug\weatherAPIExam.pdb
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Form1.resources
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.Properties.Resources.resources
+C:\Users\Mirim\Downloads\weatherAPIExam (2)\weatherAPIExam\weatherAPIExam\obj\Debug\weatherAPIExam.csproj.GenerateResource.Cache
