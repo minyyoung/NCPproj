@@ -1,0 +1,12 @@
+C:\Aurum\3518\weather01_0510\weather01_0510\bin\Debug\weather01_0510.exe.config
+C:\Aurum\3518\weather01_0510\weather01_0510\bin\Debug\weather01_0510.exe
+C:\Aurum\3518\weather01_0510\weather01_0510\bin\Debug\weather01_0510.pdb
+C:\Aurum\3518\weather01_0510\weather01_0510\obj\Debug\weather01_0510.csprojResolveAssemblyReference.cache
+C:\Aurum\3518\weather01_0510\weather01_0510\obj\Debug\weather01_0510.Form1.resources
+C:\Aurum\3518\weather01_0510\weather01_0510\obj\Debug\weather01_0510.Properties.Resources.resources
+C:\Aurum\3518\weather01_0510\weather01_0510\obj\Debug\weather01_0510.csproj.GenerateResource.Cache
+C:\Aurum\3518\weather01_0510\weather01_0510\obj\Debug\weather01_0510.exe
+C:\Aurum\3518\weather01_0510\weather01_0510\obj\Debug\weather01_0510.pdb
+C:\Aurum\3518\NCPproj\weather01_0510\bin\Debug\weather01_0510.exe.config
+C:\Aurum\3518\NCPproj\weather01_0510\obj\Debug\weather01_0510.exe
+C:\Aurum\3518\NCPproj\weather01_0510\obj\Debug\weather01_0510.pdb
