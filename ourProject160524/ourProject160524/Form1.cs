@@ -94,20 +94,15 @@ namespace ourProject160524
 
         private void button1_Click( object sender, EventArgs e )
         {
-//            HttpWebRequest http = (HttpWebRequest) WebRequest.Create(
-//                "http://203.247.66.146/iros/RetrieveWhoIndexService/getAsthmaWhoList?ServiceKey=6SWK3Ll%2BXniV1bEC%2F06SPf8PiL4vbC8sCX%2BcmuMr1VDOCVaiD%2F%2FWpqOpM0KhfIg4%2Fi6KUeRyJVcDktuYuOKOsg%3D%3D&AreaNo=1100000000&numOfRows=999&pageSize=999&pageNo=1&startPage=1" );
             HttpWebRequest http = (HttpWebRequest) WebRequest.Create(
                 "http://203.247.66.146/iros/RetrieveWhoIndexService/getAsthmaWhoList?ServiceKey="
                 + "6SWK3Ll%2BXniV1bEC%2F06SPf8PiL4vbC8sCX%2BcmuMr1VDOCVaiD%2F%2FWpqOpM0KhfIg4%2Fi6KUeRyJVcDktuYuOKOsg%3D%3D&"
                 + "AreaNo=" + areaNumber.Text + "&numOfRows=999&pageSize=999&pageNo=10&startPage=1" );
 
-//           string tmpCode = theCode[ cbCode.SelectedItem.ToString() ];
 
             WebResponse response = http.GetResponse();
             StreamReader sr = new StreamReader( response.GetResponseStream() );
 
-//            MemoryStream stream = response.GetResponseStream();
-//            StreamReader sr = new StreamReader( stream );
             string content = sr.ReadToEnd();
             tbResult.Text = content;
         }
@@ -146,10 +141,10 @@ namespace ourProject160524
 
         private void moreInfoButton_Click(object sender, EventArgs e)
         {
-            Form sf = new Form();
-            sf.Size = new Size(700, 450);
-            sf.Owner = this;
-            sf.ShowDialog();
+            this.Visible = false;
+            Form2 form = new Form2();
+            form.Owner = this;
+            form.Show();
         }
     }
 }

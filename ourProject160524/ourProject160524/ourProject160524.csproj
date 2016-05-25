@@ -51,24 +51,34 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -77,6 +87,57 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 10%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 100%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 20%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 30%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 40%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 50%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 60%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 70%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 80%25.png" />
+    <Content Include="Resources\ICON_작업\날씨\날씨%28화남%29 90%25.png" />
+    <Content Include="Resources\ICON_작업\마스크\마스크_빨강.png" />
+    <Content Include="Resources\ICON_작업\마스크\마스크_주황.png" />
+    <Content Include="Resources\ICON_작업\마스크\마스크_초록.png" />
+    <Content Include="Resources\ICON_작업\물\물 10%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 100%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 20%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 30%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 40%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 50%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 60%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 70%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 80%25.png" />
+    <Content Include="Resources\ICON_작업\물\물 90%25.png" />
+    <Content Include="Resources\ICON_작업\미세먼지\미세먼지캐릭터_빨강.png" />
+    <Content Include="Resources\ICON_작업\미세먼지\미세먼지캐릭터_주황.png" />
+    <Content Include="Resources\ICON_작업\미세먼지\미세먼지캐릭터_초록.png" />
+    <Content Include="Resources\ICON_작업\미세먼지\미세먼지토끼_빨강.png" />
+    <Content Include="Resources\ICON_작업\미세먼지\미세먼지토끼_주황.png" />
+    <Content Include="Resources\ICON_작업\미세먼지\미세먼지토끼_초록.png" />
+    <Content Include="Resources\ICON_작업\별\별 무채색.png" />
+    <Content Include="Resources\ICON_작업\별\별 채색.png" />
+    <Content Include="Resources\ICON_작업\썬크림\썬크림 작업_빨강.png" />
+    <Content Include="Resources\ICON_작업\썬크림\썬크림 작업_주황.png" />
+    <Content Include="Resources\ICON_작업\썬크림\썬크림 작업_초록.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 0%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 10%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 100%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 20%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 30%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 40%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 50%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 60%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 70%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 80%25.png" />
+    <Content Include="Resources\ICON_작업\우산 작업\우산 90%25.png" />
+    <Content Include="Resources\ICON_작업\풍향\풍향_1.png" />
+    <Content Include="Resources\ICON_작업\풍향\풍향_2.png" />
+    <Content Include="Resources\ICON_작업\풍향\풍향_3.png" />
+    <None Include="Resources\날씨%28화남%29 10%25.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

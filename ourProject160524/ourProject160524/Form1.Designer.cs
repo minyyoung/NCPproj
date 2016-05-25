@@ -36,8 +36,9 @@
             this.tbResult = new System.Windows.Forms.TextBox();
             this.areaNumber = new System.Windows.Forms.TextBox();
             this.dateLabel = new System.Windows.Forms.Label();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.moreInfoButton = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.parsingText = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // cbKind1
@@ -76,7 +77,7 @@
             // button1
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Location = new System.Drawing.Point(441, 69);
+            this.button1.Location = new System.Drawing.Point(430, 69);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 8;
@@ -89,15 +90,17 @@
             this.tbResult.Location = new System.Drawing.Point(49, 119);
             this.tbResult.Multiline = true;
             this.tbResult.Name = "tbResult";
-            this.tbResult.Size = new System.Drawing.Size(327, 139);
+            this.tbResult.Size = new System.Drawing.Size(352, 210);
             this.tbResult.TabIndex = 3;
+            this.tbResult.Text = "xml";
             // 
             // areaNumber
             // 
-            this.areaNumber.Location = new System.Drawing.Point(49, 264);
+            this.areaNumber.Location = new System.Drawing.Point(537, 71);
             this.areaNumber.Name = "areaNumber";
             this.areaNumber.Size = new System.Drawing.Size(100, 21);
             this.areaNumber.TabIndex = 9;
+            this.areaNumber.Text = "지역번호";
             // 
             // dateLabel
             // 
@@ -107,11 +110,6 @@
             this.dateLabel.Size = new System.Drawing.Size(38, 12);
             this.dateLabel.TabIndex = 10;
             this.dateLabel.Text = "label1";
-            // 
-            // timer1
-            // 
-            this.timer1.Enabled = true;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // moreInfoButton
             // 
@@ -124,11 +122,26 @@
             this.moreInfoButton.Text = "+ 더보기";
             this.moreInfoButton.Click += new System.EventHandler(this.moreInfoButton_Click);
             // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // parsingText
+            // 
+            this.parsingText.Location = new System.Drawing.Point(419, 119);
+            this.parsingText.Multiline = true;
+            this.parsingText.Name = "parsingText";
+            this.parsingText.Size = new System.Drawing.Size(218, 210);
+            this.parsingText.TabIndex = 12;
+            this.parsingText.Text = "결과";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(684, 411);
+            this.Controls.Add(this.parsingText);
             this.Controls.Add(this.moreInfoButton);
             this.Controls.Add(this.dateLabel);
             this.Controls.Add(this.areaNumber);
@@ -138,7 +151,7 @@
             this.Controls.Add(this.cbKind2);
             this.Controls.Add(this.cbKind1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "A";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -154,8 +167,9 @@
         private System.Windows.Forms.TextBox tbResult;
         private System.Windows.Forms.TextBox areaNumber;
         private System.Windows.Forms.Label dateLabel;
-        private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label moreInfoButton;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.TextBox parsingText;
     }
 }
 
