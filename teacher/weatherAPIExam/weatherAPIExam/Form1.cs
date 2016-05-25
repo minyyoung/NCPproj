@@ -33,7 +33,7 @@ namespace weatherAPIExam
 //            cbCode.Items.Add( "1111051500" );*/
 
             theAM = new CAreaManager();
-/*            theAM.AddArea("서울", "종로구", "청운효자동", "1111051500");
+/*          theAM.AddArea("서울", "종로구", "청운효자동", "1111051500");
             theAM.AddArea("서울", "종로구", "혜화동", "1111065000");
             theAM.AddArea("서울", "종로구", "-", "1111000000");
             theAM.AddArea("서울", "도봉구", "창제1동", "1132051100");
