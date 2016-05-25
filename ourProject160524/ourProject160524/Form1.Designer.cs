@@ -37,6 +37,7 @@
             this.areaNumber = new System.Windows.Forms.TextBox();
             this.dateLabel = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.moreInfoButton = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // cbKind1
@@ -109,13 +110,26 @@
             // 
             // timer1
             // 
+            this.timer1.Enabled = true;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // moreInfoButton
+            // 
+            this.moreInfoButton.AutoSize = true;
+            this.moreInfoButton.Font = new System.Drawing.Font("굴림", 12F);
+            this.moreInfoButton.Location = new System.Drawing.Point(311, 388);
+            this.moreInfoButton.Name = "moreInfoButton";
+            this.moreInfoButton.Size = new System.Drawing.Size(69, 16);
+            this.moreInfoButton.TabIndex = 11;
+            this.moreInfoButton.Text = "+ 더보기";
+            this.moreInfoButton.Click += new System.EventHandler(this.moreInfoButton_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(689, 423);
+            this.ClientSize = new System.Drawing.Size(684, 411);
+            this.Controls.Add(this.moreInfoButton);
             this.Controls.Add(this.dateLabel);
             this.Controls.Add(this.areaNumber);
             this.Controls.Add(this.tbResult);
@@ -141,6 +155,7 @@
         private System.Windows.Forms.TextBox areaNumber;
         private System.Windows.Forms.Label dateLabel;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Label moreInfoButton;
     }
 }
 

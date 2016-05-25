@@ -143,5 +143,13 @@ namespace ourProject160524
             }
             return "";
         }
+
+        private void moreInfoButton_Click(object sender, EventArgs e)
+        {
+            Form sf = new Form();
+            sf.Size = new Size(700, 450);
+            sf.Owner = this;
+            sf.ShowDialog();
+        }
     }
 }
