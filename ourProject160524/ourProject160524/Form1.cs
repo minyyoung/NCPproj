@@ -49,7 +49,6 @@ namespace ourProject160524
                     theAM.AddArea( tmpClass[ 1 ], tmpClass[ 2 ], tmpClass[ 3 ], tmpClass[ 0 ] );
                 }
 
-
             }
             cbKind1.Items.Clear();
             foreach( KeyValuePair<string, SortedList<string, SortedList<string, string>>> iter in theAM.theAreas )
